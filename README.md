@@ -17,5 +17,6 @@ Simply run:
 ```
 python LMDisorder_predict.py --fasta ./example/demo.fasta --device 'cpu' --model_path ./model/model.pkl
 ```
+And the prediction results will be saved in ./example/result. We also provide the corresponding canonical prediction results in ./example/demo_result for your reference.
 
 
