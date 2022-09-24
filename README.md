@@ -12,3 +12,7 @@ tqdm 4.48.2
 # Pretrained language model
 You need to prepare the pretrained language model ProtTrans to run LMDisorder:
 Download the pretrained ProtT5-XL-UniRef50 model ([guide](https://github.com/agemagician/ProtTrans)). # ~ 11.3 GB (download: 5.3 GB)
+# Run LMDisorder for prediction
+Simply run:  
+
+
