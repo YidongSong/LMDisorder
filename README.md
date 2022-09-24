@@ -9,3 +9,6 @@ pytorch 1.10.0
 sentencepiece 0.1.96  
 transformers 4.18.0  
 tqdm 4.48.2  
+# Pretrained language model
+You need to prepare the pretrained language model ProtTrans to run LMDisorder:
+Download the pretrained ProtT5-XL-UniRef50 model (guide). # ~ 11.3 GB (download: 5.3 GB)
