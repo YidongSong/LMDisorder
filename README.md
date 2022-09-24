@@ -24,5 +24,5 @@ And the prediction results will be saved in
 We also provide the corresponding canonical prediction results in ```./example/demo_result``` for your reference.
 # Dataset and model
 We provide the datasets and the trained LMDisorder models here for those interested in reproducing our paper. The datasets used in this study are stored in ```./datasets/```.
-The trained LMDisorder models can be found under ./model/.
+The trained LMDisorder models can be found under ```./model/```.
 
