@@ -26,5 +26,5 @@ We also provide the corresponding canonical prediction results in ```./example/d
 We provide the datasets and the trained LMDisorder models here for those interested in reproducing our paper. The datasets used in this study are stored in ```./datasets/```.
 The trained LMDisorder models can be found under ```./model/```.
 # Contact
-Qianmu Yuan (yuanqm3@mail2.sysu.edu.cn)  
+Yidong Song (songyd6@mail2.sysu.edu.cn)  
 Yuedong Yang (yangyd25@mail.sysu.edu.cn)
