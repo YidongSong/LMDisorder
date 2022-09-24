@@ -3,9 +3,9 @@ LMDisorder is a fast and accurate protein disorder predictor that employed embed
 ![image](https://github.com/songyidong-true/LMDisorder/blob/main/image/LMDisorder_architecture.png)
 # System requirement
 python 3.7.9  
-numpy 1.19.1
-pandas 1.1.0
-pytorch 1.10.0
-sentencepiece 0.1.96
-transformers 4.18.0
-tqdm 4.48.2
+numpy 1.19.1  
+pandas 1.1.0  
+pytorch 1.10.0  
+sentencepiece 0.1.96  
+transformers 4.18.0  
+tqdm 4.48.2  
