@@ -14,5 +14,8 @@ You need to prepare the pretrained language model ProtTrans to run LMDisorder:
 Download the pretrained ProtT5-XL-UniRef50 model ([guide](https://github.com/agemagician/ProtTrans)). # ~ 11.3 GB (download: 5.3 GB)
 # Run LMDisorder for prediction
 Simply run:  
+```
+python LMDisorder_predict.py --fasta ./example/demo.fasta --device 'cpu' --model_path ./model/model.pkl
+```
 
 
